@@ -1,0 +1,21 @@
+Link to unlisted youtube video:
+https://youtube.com/.....
+
+Link to the slide:
+https://docs.google.com/presentation/d/1NptvA78-YliCovLf4NS5Ut_TuNPpBh9ck-CBO1xCuY8/edit?usp=sharing
+
+Paper title:
+Distributed file system as a basis of data-intensive computing
+
+Link to the paper:
+https://ieeexplore.ieee.org/document/6398484
+
+Group Number:
+1
+
+Group Members:
+21266003 Badhan Saha
+21266010 Mohammad Asifur Rahman Shuvo
+17301040 Rafa Siddiqua
+17301080 Md. Main Uddin Hasan
+18201137 Tamanna Kaiser
